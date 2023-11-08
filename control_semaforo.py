@@ -1,7 +1,7 @@
 import serial
 import time
 
-arduino_port = "COMX"  # Reemplaza "COMX" con el puerto COM al que está conectado tu Arduino
+arduino_port = "COMX"  # Recordatorio: Reemplazar "COMX" con el puerto COM al que está conectado el Arduino
 baud_rate = 9600
 
 try:
